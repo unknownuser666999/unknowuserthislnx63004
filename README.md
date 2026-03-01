@@ -1,4 +1,4 @@
-`Base of Lunix Script by Exa`
+`Base of Lunix Script`
 
 ```lua
 Founder:
@@ -7,3 +7,6 @@ Founder:
 Discord: ?
 Media: @kingsatans
 ```
+
+Best Regards :
+- Exa
